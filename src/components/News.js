@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import NewsItem from "./NewsItem";
-// import Spinner from "./Spinner";
+import Spinner from "./Spinner";
 import PropTypes from 'prop-types';
 
 
@@ -70,7 +70,7 @@ export class News extends Component {
     return (
       <div className="container my-3">
         <h1 className="text-center" style={{margin:'35px 0  '}}>NewsApp - Top Headlines</h1>
-        {/* {this.state.loading && <Spinner />} */}
+        {this.state.loading && <Spinner />}
         <div className="row">
           {!this.state.loading && this.state.articles.map((element) => {
             return <div className="col-md-4" key={element.url}>
