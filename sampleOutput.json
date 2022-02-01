@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "German court finds Syrian bcolonel guilty of crimes against humanity",
+      "description": "The German trial of Anwar Raslan is the world's first criminal case over state-led torture in Syria.",
+      "url": "http://www.bbc.co.uk/news/world-europe-59949924",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13181/production/_122690287_protest.jpg",
+      "publishedAt": "2022-01-13T09:37:21.585431Z",
+      "content": "By Jenny HillBBC News Koblenz, Germany\r\nImage source, Getty Images\r\nImage caption, At the start of the trial, pictures of state torture victims in Syria were put on display outside the court\r\nA court… [+4732 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Covid: Ministers back Boris Johnson's call to wait for party inquiry",
+      "description": "It follows Boris Johnson's apology for attending an event in the Downing Street garden during lockdown.",
+      "url": "http://www.bbc.co.uk/news/live/uk-59977092",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+      "publishedAt": "2022-01-13T08:22:28.4518483Z",
+      "content": "Conservative MP Jake Berry says the prime minister's apology was \"very contrite and heartfelt\" and \"to some extent\" allows him to lead the country until the publication of a report into parties in go… [+783 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Novak Djokovic set to play in Australian Open despite visa uncertainty",
+      "description": "The world's number one men's player gets his match draw for the Open despite a looming deportation threat.",
+      "url": "http://www.bbc.co.uk/news/world-australia-55760672",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5301/production/_122694212_novakgetty.jpg",
+      "publishedAt": "2022-01-13T07:07:20.5710687Z",
+      "content": "Image source, Getty Images\r\nNovak Djokovic has been drawn to play in the Australian Open despite ongoing uncertainty over whether his visa will be cancelled again by the government.\r\nThe world number… [+1799 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Prince Andrew civil case: What happens next?",
+      "description": "A US judge has said a civil case alleging sexual assault can continue. Where does it leave the prince?",
+      "url": "http://www.bbc.co.uk/news/uk-59974719",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A4F5/production/_122692224_mediaitem122692219.jpg",
+      "publishedAt": "2022-01-13T01:37:17.9590746Z",
+      "content": "By Dominic CascianiHome and legal correspondent\r\nIt couldn't have been a worse result for Prince Andrew. \r\nJust weeks ago, speculation was mounting that his team might have come up with a slam-dunk w… [+5783 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ronnie Spector: Be My Baby singer of The Ronettes dies at 78",
+      "description": "The rock and roll super star was the lead singer of the 1960 pioneering all-girl group the Ronettes.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-59975272",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B4D/production/_122692486_gettyimages-74296639.jpg",
+      "publishedAt": "2022-01-12T23:07:23.2744653Z",
+      "content": "Image source, Getty Images\r\nRonnie Spector, the trail-blazing lead singer of the 1960s all-girl group the Ronettes, has died.\r\nThe rock and roll star rose to fame with hits such as Be My Baby, Baby I… [+1164 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Hoda Muthana: Alabama IS bride loses appeal for return to US",
+      "description": "US-born Hoda Muthana is a citizen and should be allowed to return with her son, the lawsuit argued.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-59974939",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B5F6/production/_105728564_untitled.png",
+      "publishedAt": "2022-01-12T22:52:21.4125182Z",
+      "content": "The US Supreme Court has refused to hear the appeal of an American woman who joined the Islamic State (IS) and is seeking re-entry to the US. \r\nHoda Muthana grew up in Alabama and travelled to Syria … [+1805 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US consumer prices rise at fastest rate in nearly 40 years",
+      "description": "Inflation jumped 7% in December, piling pressure on the US central bank to raise interest rates.",
+      "url": "http://www.bbc.co.uk/news/business-59969864",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53DB/production/_122676412_hi072541589.jpg",
+      "publishedAt": "2022-01-12T22:37:22.4054157Z",
+      "content": "Prices in the US are rising at their fastest rate in almost 40 years, with inflation up 7% year-on-year in December.\r\nStrong demand and scarce supply for key items such as cars are driving the increa… [+4166 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Republican McConnell slams Biden voting rights speech as 'unpresidential'",
+      "description": "President Joe Biden had criticised opponents to his election reforms in a fiery speech on Tuesday.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-59974375",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A074/production/_122667014_tv073050834.jpg",
+      "publishedAt": "2022-01-12T22:22:17.9458105Z",
+      "content": "Top Senate Republican Mitch McConnell has denounced US President Joe Biden's voting rights speech as \"incoherent\" and \"profoundly unpresidential\".\r\n\"I have known, liked, and personally respected Joe … [+2401 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine tensions: US says Russia faces stark choice",
+      "description": "Russia is told it must decide between de-escalation and diplomacy, or confrontation and consequences.",
+      "url": "http://www.bbc.co.uk/news/world-europe-59971955",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10597/production/_122676966_mediaitem122690673.jpg",
+      "publishedAt": "2022-01-12T19:52:20.412336Z",
+      "content": "Image caption, The Nato-Russia Council met for the first time since 2019\r\nUS Deputy Secretary of State Wendy Sherman has warned Russia that it must choose either diplomacy or confrontation with the W… [+3956 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Boris Johnson: Senior Tories urge PM to quit after party apology",
+      "description": "Cabinet members are rallying round Boris Johnson - but other top Tories say he has to stand down.",
+      "url": "http://www.bbc.co.uk/news/uk-politics-59972859",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C78F/production/_122678015_ukparliament_jessicataylor-8.jpg",
+      "publishedAt": "2022-01-12T19:22:21.4366592Z",
+      "content": "Media caption, Scottish Conservative leader Douglas Ross Ross said the prime minister's position was \"no longer tenable\"\r\nBoris Johnson is facing calls from senior Tories to stand down as prime minis… [+8465 chars]"
+    }
+  ]
+}
